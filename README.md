@@ -1,4 +1,7 @@
 # epidemiology_data_visualization
+
+## Please view johanna_reganprj3.md for the R markdown as a github document. 
+
 I utilized cdc data to create a hexgrip map of the United States to visualize infant mortality rate
 
 Here is the original visualization from the CDC and the data I downloaded and used: 
